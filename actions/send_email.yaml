@@ -25,3 +25,7 @@
       type: "string"
       description: "Account to use. Must be configured in email.yaml"
       required: true
+    charset:
+      type: "string"
+      description: "Charset of message"
+      required: false
